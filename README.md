@@ -51,8 +51,7 @@ Configure the packages:
 
 This implementation is based on / inspired by:
 
-[TFPnP]: https://github.com/Vandermode/TFPnP
-
+<a href="https://github.com/Vandermode/TFPnP">TFPnP</a>
 
 
 ## Citation
