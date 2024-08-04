@@ -1,0 +1,1 @@
+from .mddpg.trainer import MDDPGTrainer
